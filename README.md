@@ -33,4 +33,4 @@ Customer retention is vital for e-commerce profitability. This application analy
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/mariasamaan121212/E-Commerce-Churn-Dashboard.git](https://github.com/mariasamaan121212/E-Commerce-Churn-Dashboard.git)
+   git clone [https://github.com/mariasamaan121212/E-Commerce-Churn-Dashboard.git]
