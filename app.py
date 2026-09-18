@@ -65,7 +65,7 @@ model, model_features = load_assets()
 # --- HEADER SECTION (Grid Style) ---
 head_col1, head_col2 = st.columns([3, 1])
 with head_col1:
-    st.markdown("<h1 style='color: #00f2fe; margin-bottom:0;'>🌐 OMNI-RETAIL | CHURN RISK MATRIX</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='color: #00f2fe; margin-bottom:0;'>🌐 NEXUS STORE | CHURN RISK MATRIX</h1>", unsafe_allow_html=True)
     st.caption("Enterprise Customer Retention Predictive Analytics Engine")
 
 with head_col2:
